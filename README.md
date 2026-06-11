@@ -32,9 +32,9 @@ Pleased to showcase my GitHub journey and coding statistics:
 
 Let's collaborate or chat about web development! 
 
-- **Email:** [your.email@example.com](mailto:mohammedobaidulhoquectg@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/obaidhqbd)
-- **Portfolio:** [yourportfolio.com](https://github.com/obaidhqbd)
+- **Email:** [mohammedobaidulhoquectg@gmail.com](mailto:mohammedobaidulhoquectg@gmail.com)
+- **LinkedIn:** [linkedin.com/in/obaidhqbd](https://linkedin.com/in/obaidhqbd)
+- **Portfolio:** [obaidhqbd.github.io/obaidhqbd](https://obaidhqbd.github.io/obaidhqbd)
 
 ---
 
