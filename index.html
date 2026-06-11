@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammed Obaidul Hoque | Frontend Developer</title>
+    <style>
+        /* Reset & Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 850px;
+            width: 100%;
+            background: #161b22;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+            border: 1px solid #30363d;
+        }
+
+        /* Header Section */
+        header {
+            text-align: center;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #58a6ff;
+            font-size: 2.5rem;
+            margin-bottom: 8px;
+        }
+        .subtitle {
+            font-size: 1.1rem;
+            color: #8b949e;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 35px;
+        }
+        h2 {
+            color: #f0f6fc;
+            border-bottom: 2px solid #238636;
+            display: inline-block;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+        p {
+            margin-bottom: 15px;
+            color: #c9d1d9;
+            font-size: 1.05rem;
+        }
+
+        /* Skills Grid */
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .skill-tag {
+            background: #238636;
+            color: #ffffff;
+            padding: 8px 18px;
+            border-radius: 25px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            transition: transform 0.2s ease;
+        }
+        .skill-tag:hover {
+            transform: translateY(-2px);
+            background: #2ea043;
+        }
+
+        /* Stats Section */
+        .stats {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            background: #0d1117;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
+        .stats img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #30363d;
+            color: #8b949e;
+            font-size: 0.95rem;
+        }
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive Design */
+        @media (min-width: 768px) {
+            .stats {
+                flex-direction: row;
+                justify-content: space-around;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Mohammed Obaidul Hoque</h1>
+            <p class="subtitle">Frontend Developer | HTML & CSS Expert | Bangladesh</p>
+        </header>
+
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I am a passionate and detail-oriented Frontend Developer. I specialize in building visually appealing, highly responsive, and user-centric web interfaces. I focus on writing semantic HTML5 and modern CSS3 to turn complex design concepts into clean, maintainable, and pixel-perfect code.</p>
+        </section>
+
+        <section>
+            <h2>My Expertise</h2>
+            <div class="skills">
+                <span class="skill-tag">HTML5</span>
+                <span class="skill-tag">CSS3</span>
+                <span class="skill-tag">Flexbox</span>
+                <span class="skill-tag">CSS Grid</span>
+                <span class="skill-tag">Responsive Web Design</span>
+                <span class="skill-tag">UI/UX Implementation</span>
+            </div>
+        </section>
+
+        <section>
+            <h2>GitHub Analytics</h2>
+            <div class="stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=obaidhqbd&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidhqbd&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+            </div>
+        </section>
+
+        <footer>
+            <p>Let's build something amazing together! Connect with me on <a href="https://github.com/obaidhqbd" target="_blank">GitHub</a>.</p>
+        </footer>
+    </div>
+</body>
+</html>
