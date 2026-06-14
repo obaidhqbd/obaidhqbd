@@ -37,7 +37,7 @@ Let's collaborate or chat about web development!
 
 - **Email:** [mohammedobaidulhoquectg@gmail.com](mailto:mohammedobaidulhoquectg@gmail.com)
 - **LinkedIn:** [linkedin.com/in/obaidhqbd](https://linkedin.com/in/obaidhqbd)
-- **Portfolio:** [obaidhqbd.github.io/obaidhqbd](https://obaidhqbd.github.io/obaidhqbd)
+- **Portfolio:** [https://obaidhqbd.github.io/next-gen-portfulio/](https://obaidhqbd.github.io/next-gen-portfulio/)
 
 ---
 
