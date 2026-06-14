@@ -5,8 +5,8 @@
 Welcome to my GitHub profile! I am a passionate and detail-oriented **Frontend Developer** dedicated to crafting beautiful, highly responsive, and user-friendly web interfaces. With a solid foundation in semantic **HTML5** and modern **CSS3**, I focus on turning complex designs into clean, pixel-perfect code.
 
 ---
-<p align="center">
-<img src="https://obaidhqbd.github.io/obaidhqbd/banner.webp" alt="Mohammed Obaidul Hoque's achievements" height="501px" width="auto" />
+<p align="left">
+<img src="https://obaidhqbd.github.io/obaidhqbd/banner.webp" alt="Mohammed Obaidul Hoque's achievements" height="auto" width="auto" />
 <p/>
   
 ## 💫 About Me
