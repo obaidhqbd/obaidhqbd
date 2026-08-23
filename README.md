@@ -28,8 +28,13 @@ Welcome to my GitHub profile! I am a passionate and detail-oriented **Frontend D
 Pleased to showcase my GitHub journey and coding statistics:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=obaidhqbd&show_icons=true&theme=dark&hide_border=true" alt="Mohammed Obaidul Hoque's GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidhqbd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px" />
+  <a href="https://github.com/obaidhqbd">
+    <img src="https://github-readme-stats.vercel.app/api?username=obaidhqbd&show_icons=true&theme=dark&hide_border=true" alt="Mohammed Obaidul Hoque's GitHub stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/obaidhqbd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidhqbd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ## 🌐 Connect with Me
